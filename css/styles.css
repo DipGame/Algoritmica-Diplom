@@ -1,0 +1,23 @@
+header {
+    background-color: #833AE1;
+    padding: 20px 30px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 15px;
+}
+
+header img {
+    width: 42px;
+    height: 53px;
+}
+
+header div {
+    display: flex;
+    align-items: center;
+    gap: 95px;
+}
+
+header div a {
+    
+}
